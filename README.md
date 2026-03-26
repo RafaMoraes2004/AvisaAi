@@ -1,17 +1,43 @@
-# connectcity
+# 🏙️ AvisaAi!
 
-A new Flutter project.
+> Plataforma mobile de engajamento cívico que conecta cidadãos e poder público.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Sobre o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+**AvisaAi** é um aplicativo mobile desenvolvido em Flutter que permite que cidadãos registrem e acompanhem problemas urbanos em sua cidade, como buracos em vias, falta de iluminação, problemas de trânsito e descarte irregular de lixo de forma geolocalizada e visual.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+O app funciona como uma rede social voltada à cidadania ativa, promovendo transparência e agilidade na comunicação entre a população e a prefeitura.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Funcionalidades
+
+- [x] Cadastro e login de usuários (e-mail/senha)
+- [x] Autenticação social via Google
+- [ ] Registro de ocorrências com foto, descrição e localização
+- [ ] Feed público de problemas reportados
+- [ ] Acompanhamento do status de cada ocorrência
+- [ ] Canal de resposta por parte da prefeitura
+- [ ] Votação e engajamento da comunidade
+
+---
+
+## 🛠️ Tecnologias
+
+| Tecnologia | Uso |
+|---|---|
+| Flutter | Desenvolvimento mobile multiplataforma |
+| Dart | Linguagem de programação |
+| Firebase *(previsto)* | Autenticação, banco de dados e armazenamento |
+| Google Maps API *(previsto)* | Geolocalização das ocorrências |
+
+---
+
+
+## 📚 Contexto Acadêmico
+
+Projeto desenvolvido como trabalho acadêmico de graduação, aplicando na prática conceitos de desenvolvimento mobile, arquitetura de software, experiência do usuário e impacto social por meio da tecnologia.
+
+---
